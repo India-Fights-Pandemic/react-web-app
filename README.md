@@ -22,13 +22,24 @@ India Fights Pandemic is an Open Source voluntary project that searches the Inte
 
 
 ### Table of Contents
-* Contribution Guidelines
+* Setup
+* Contribution
 * Documentation
 * Roadmap
 * License
 
-## Contributing
+## How to Setup
 
+
+
+
+## Contribution
+
+### Issues
+- [Open Issues](https://github.com/India-Fights-Pandemic/react-web-app/issues)
+- [How to Contribute]()
+
+### Contributing Guildelines
 
 ### Website
 
