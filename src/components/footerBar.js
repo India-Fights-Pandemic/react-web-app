@@ -42,7 +42,7 @@ class FooterBar extends React.Component {
                   <div className="col-xs-10">
                     <h5 className="footer-text"><b>Twitter</b></h5>
                     <h5 className="footer-text email-text">
-                      <a href="https://twitter.com/IndFights_Covid" target="_blank">@IndFights_Covid</a>
+                      <a href="https://twitter.com/IndFights_Covid" target="_blank" rel="noreferrer">@IndFights_Covid</a>
                     </h5>
                   </div>
                 </div>
